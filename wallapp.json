@@ -1,20 +1,23 @@
 [
   {
     "name": "First Wallpaper",
-    "author": "Sagar",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_1.png",
+    "author": "Sagar",
+    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_1.png",
     "collections": "minimal,gradient",
   },
   {
-    "name": "2 Wallpaper",
-    "author": "Sagar",
+    "name": "First Wallpaper",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_2.jpg",
+    "author": "Sagar",
+    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_2.jpg",
     "collections": "minimal,gradient",
   },
-  {
-    "name": "3 Wallpaper",
-    "author": "Sagar",
+ {
+    "name": "First Wallpaper",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_3.jpg",
+    "author": "Sagar",
+    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_3.jpg",
     "collections": "minimal,gradient",
   },
 ]
