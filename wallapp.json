@@ -1,23 +1,23 @@
 [
   {
-    "name": "First Wallpaper",
+    "name": "Cut Gradients 20",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_1.png",
-    "author": "Sagar",
-    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_1.png",
-    "collections": "minimal,gradient",
-  },
+    "collections": "Xiaomiui",
+    "author": "lazrdev",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+   },
   {
-    "name": "First Wallpaper",
+    "name": "Cut Gradients 19",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_2.jpg",
-    "author": "Sagar",
-    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_2.jpg",
-    "collections": "minimal,gradient",
-  },
- {
-    "name": "First Wallpaper",
+    "collections": "Xiaomiui",
+    "author": "lazrdev",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+   },
+  {
+    "name": "Cut Gradients 18",
     "url": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_3.jpg",
-    "author": "Sagar",
-    "thumbnail": "https://raw.githubusercontent.com/Sagar991/Sam-Wall-App/main/AW_3.jpg",
-    "collections": "minimal,gradient",
-  }
+    "collections": "Xiaomiui",
+    "author": "lazrdev",
+    "copyright": "Personal Use Only. No Commercial Use. For All Setup related posts credits are required."
+   }
 ]
